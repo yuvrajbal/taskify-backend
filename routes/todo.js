@@ -1,4 +1,4 @@
-const { Todo, User } = require("../db/index");
+const { Todo, User } = require("../db/db");
 // let todos = [
 //   { id: 1, title: "sample todo", description: "this is my first todo" },
 // ];

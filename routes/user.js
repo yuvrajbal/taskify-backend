@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const { User } = require("../db/index");
+const { User } = require("../db/db");
 
 const users = [];
 const JWT_SECRET = "TRELLOCLONE";
